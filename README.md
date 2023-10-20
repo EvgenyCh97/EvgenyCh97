@@ -1,3 +1,5 @@
+<h1 align="center">hey there 👋</h1>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJuOXlvM25ldGVqejM1ajlvc21zb2YzcW1sMHlnanF5MmptYXl0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
@@ -11,7 +13,12 @@
   <div>
     <img src="https://komarev.com/ghpvc/?username=EvgenyCh97&style=flat-square&color=blue" alt=""/>
   </div>
-  <div>
-    <b>hey there</b><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejB1YW0weXRlYjczcjl4anRyemFzcDIxNXQ1enljYjM0aWtkanQ0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </div>
 </div>
+
+### :man_technologist: About Me :
+I am a Python Backend Developer.
+
+- I'm looking for a job for a Python Backend developer position. I am considering the format of both remote and office work, full or part-time.
+- I love solving complex problems and love learning new technologies.
+- I live in St. Petersburg
+- :mailbox:How to reach me: <a href="https://t.me/chevgeny"><img src="https://img.shields.io/badge/Telegram-blue?style=social&logo=Telegram&link=https%3A%2F%2Ft.me%2Fchevgeny" alt="Telegram Badge"/></a>
