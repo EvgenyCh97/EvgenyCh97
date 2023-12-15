@@ -1,3 +1,4 @@
+
 <h1 align="center">hey there 👋</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJuOXlvM25ldGVqejM1ajlvc21zb2YzcW1sMHlnanF5MmptYXl0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
@@ -16,7 +17,7 @@
 
 ---
 
-## :man_technologist: About Me :
+## About Me :
 I am a Python Backend Developer.
 
 - I'm looking for a job for a Python Backend developer position. I am considering the format of both remote and office work, full or part-time.
@@ -26,7 +27,7 @@ I am a Python Backend Developer.
 
 ---
 
-## :hammer_and_wrench: Languages and Tools :
+## Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="60" height="60"/>&nbsp;
