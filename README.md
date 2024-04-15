@@ -8,8 +8,6 @@
     <img src="https://img.shields.io/badge/Hexlet-grey?style=for-the-badge&logo=Hexlet&link=https%3A%2F%2Fru.hexlet.io%2Fu%2Fuser-7fbbc79ed0c8603a" alt="Hexlet Badge"/></a>
   <a href="https://t.me/chevgeny">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&link=https%3A%2F%2Ft.me%2Fchevgeny" alt="Telegram Badge"/></a>
-  <a href="https://spb.hh.ru/resume/ccc95917ff0bc5acb00039ed1f745a4f49776c">
-    <img src="https://img.shields.io/badge/HH.ru-red?style=for-the-badge&logo=HeadHunter&link=https%3A%2F%2Fspb.hh.ru%2Fresume%2Fccc95917ff0bc5acb00039ed1f745a4f49776c" alt="HeadHunter Badge"/></a>
   <div>
     <img src="https://komarev.com/ghpvc/?username=EvgenyCh97&style=flat-square&color=blue" alt=""/>
   </div>
